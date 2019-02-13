@@ -1,2 +1,0 @@
-FROM hello-world
-
